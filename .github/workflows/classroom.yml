@@ -22,4 +22,4 @@ jobs:
       - name: Copy Unittests
         run: cp unittests/* .
         
-      - uses: education/autograding@v1
+      - uses: education/autograding@v2
